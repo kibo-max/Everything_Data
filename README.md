@@ -1,4 +1,5 @@
 # Oraimo Sales Forecasting
+![image](https://github.com/user-attachments/assets/f128a896-8860-4634-970b-97c7b6138a9a)
 
 ## Project Overview
 
